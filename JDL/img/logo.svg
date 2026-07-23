@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 64" role="img" aria-labelledby="title desc">
+  <title id="title">JLD</title>
+  <desc id="desc">Logo de JLD alquiler de luces y sonido</desc>
+  <rect width="56" height="56" rx="12" y="4" fill="#f5c542"/>
+  <path d="M18 18v17c0 5 3 8 8 8s8-3 8-8V18M27 18v11M42 18v25h12" fill="none" stroke="#111" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+  <text x="72" y="38" fill="#fff" font-family="Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="2">JLD</text>
+</svg>
